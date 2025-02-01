@@ -1,0 +1,11 @@
+Test Case ID,Description,Expected Result,Actual Result,Status,Severty Level,Remarks
+TC001,Verify navigation links,Links navigate correctly,All links function correctly,passed,meduim,none
+TC002,Product listing check,Products display as expected,Products displayed correctly,passes,low,none
+TC003,Add to cart Checking,"Items add, update, and remove",Cart functionality works as expected,passed,low,none
+TC004,Add to Wishlist Checking,Items add and remove,Wishlist Items add and remove correctly,passed,high,none
+TC005,Product details check,Products' details display expected,Products' details display correctly,passed,high,Addresses some issues
+TC006,Verify Checkout Functionality,user's address form display,user's address form display correctly,passed,low,Minor bugs noted
+TC007,Verify accessibility features,Accessibility score ≥ 90,Accessibility: 92,passed,meduim,none
+TC008,Analyze performance metrics,Achieve Performance ≥ 90,Performance: 97,passed,meduim,none
+TC009,Validate best practices,Best Practices score ≥ 90,Best Practices: 96,passed,low,none
+TC010,Optimize SEO,SEO score ≥ 90,SEO: 100,passed,high,none
